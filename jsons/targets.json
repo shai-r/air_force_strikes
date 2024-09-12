@@ -1,0 +1,61 @@
+[
+  {
+    "target_city": "Damascus",
+    "priority": 5
+  },
+  {
+    "target_city": "Beirut",
+    "priority": 4
+  },
+  {
+    "target_city": "Amman",
+    "priority": 3
+  },
+  {
+    "target_city": "Cairo",
+    "priority": 3
+  },
+  {
+    "target_city": "Baghdad",
+    "priority": 5
+  },
+  { "target_city": "Tehran",
+    "priority": 4
+  },
+  {
+    "target_city": "Riyadh",
+    "priority": 3
+  },
+  {
+    "target_city": "Tripoli",
+    "priority": 2
+  },
+  {
+    "target_city": "Ankara",
+    "priority": 4
+  },
+  {
+    "target_city": "Khartoum",
+    "priority": 3
+  },
+  {
+    "target_city": "Gaza",
+    "priority": 5
+  },
+  {
+    "target_city": "Sanaa",
+    "priority": 2
+  },
+  {
+    "target_city": "Manama",
+    "priority": 2
+  },
+  {
+    "target_city": "Kuwait City",
+    "priority": 3
+  },
+  {
+    "target_city": "Doha",
+    "priority": 4
+  }
+]

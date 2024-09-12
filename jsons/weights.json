@@ -1,0 +1,7 @@
+{
+  "distance": 0.20,
+  "aircraft_type": 0.25,
+  "pilot_skill": 0.25,
+  "weather_conditions": 0.20,
+  "execution_time": 0.10
+}

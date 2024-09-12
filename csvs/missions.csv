@@ -1,0 +1,8 @@
+target_city,priority,assigned_pilot,assigned_aircraft,distance,weather_conditions,pilot_skill,aircraft_speed,fuel_capacity,mission_fit_score
+Doha,4,Robert White,Helicopter,1747.7407767439504,Clear,10,400,800,0.8765400097208667
+Tehran,4,Tom Cruise,Drone,1555.0931600547863,Clear,9,500,1000,0.7465579952120529
+Baghdad,5,Michael Clark,Recon Drone,875.9003180450427,Clear,9,600,1200,0.6679763927017413
+Khartoum,3,Sarah Connor,Heavy Bomber,1825.20754854364,Clouds,8,850,6000,0.5544907007995363
+Damascus,5,John Doe,Bomber,216.82791454894598,Clear,8,900,5000,0.5331660487964174
+Gaza,5,Alice Johnson,Fighter Jet,77.98638767534102,Clear,7,1500,3000,0.5110713202651962
+Ankara,4,Chris Pratt,Stealth Fighter,927.9917316444437,Clear,6,1800,3500,0.474277430835358
